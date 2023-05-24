@@ -30,11 +30,10 @@ example figure
 ----
 onece total supply(T) coins and total user(E) is confirmed,
 we can see
-$$
- a=-\frac{3T}{2E^3},\:c=\frac{3T}{2E}
-$$
 
-
+$$
+a=-\frac{3T}{2E^3},c=\frac{3T}{2E}
+$$
 
 ---
 
